@@ -1,4 +1,4 @@
-# Server Recipes
+# Installation
 
 - Install Dependencies : `yarn`
 - Run server `yarn start`
