@@ -1,5 +1,6 @@
-# Serveur Recettes
+# Server Recipes
 
 - Install Dependencies : `yarn`
-- Run server `yarn start` : http://localhost:3001
+- Run server `yarn start`
+- Server : http://localhost:3001
 
