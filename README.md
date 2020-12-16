@@ -2,5 +2,5 @@
 
 - Install dependencies : `yarn`
 - Run server : `yarn start`
-- Server : http://localhost:3001
+- Port : http://localhost:3001
 
